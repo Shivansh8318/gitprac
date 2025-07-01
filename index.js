@@ -1,4 +1,4 @@
-function greet(name) {
+function jukhh(name) {
   return `Hello, ${name}!`;
 }
 function hhhhhh(a,b){
