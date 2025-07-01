@@ -3,6 +3,10 @@ function greet(name) {
 }
 function hhhhhh(a,b){
     return a + b;
+
+function greet(name) {
+  return `Hello, ${name}!`;
+
 }
 function divide(a,b){
     if (b === 0) {
